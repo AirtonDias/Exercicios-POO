@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Juros",
+            "request": "launch",
+            "mainClass": "Juros",
+            "projectName": "Java_ca05f3bd"
+        },
+        {
+            "type": "java",
+            "name": "Votacao",
+            "request": "launch",
+            "mainClass": "Votacao",
+            "projectName": "Java_ca05f3bd"
+        },
+        {
+            "type": "java",
+            "name": "Aniversario",
+            "request": "launch",
+            "mainClass": "Aniversario",
+            "projectName": "Java_ca05f3bd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exer01",
+            "request": "launch",
+            "mainClass": "Exer01",
+            "projectName": "Java_ca05f3bd"
+        }
+    ]
+}
